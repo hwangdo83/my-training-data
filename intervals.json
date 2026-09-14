@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T22:11:03.196123",
+  "generated_at": "2026-09-14T00:13:47.848353",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1804,6 +1804,27 @@
           "zone": 1,
           "training_load": 2.4642744,
           "decoupling": 70.333115
+        }
+      ]
+    },
+    {
+      "activity_id": "i186438726",
+      "date": "2026-09-14",
+      "type": "Ride",
+      "name": "\uc790\ucd9c #41",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2285,
+          "avg_power": 122,
+          "max_power": 379,
+          "avg_hr": 124,
+          "max_hr": 157,
+          "avg_cadence": 66.36129,
+          "zone": 1,
+          "training_load": 25.333273,
+          "decoupling": -10.097195
         }
       ]
     }
